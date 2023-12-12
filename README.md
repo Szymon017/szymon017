@@ -1,6 +1,8 @@
 ### Hi there, I'm Szymon 👋
 ---
-# Computer Science Engineer, programming enthusiast
+<p align="center">
+Computer Science Engineer, programming enthusiast
+</p>
 
 , a young programmer eager to gain experience in the IT industry. My current focus lies in full-stack applications, where I enjoy both crafting the backend and developing engaging frontends. I have completed my engineering studiesand am currently pursuing a master's degree, further deepening my knowledge and skills. I am actively seeking job opportunities and am open to any proposals that come my way!
 
