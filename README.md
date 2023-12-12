@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+I'm Szymon, a young programmer eager to gain experience in the IT industry. My current focus lies in full-stack applications, where I enjoy both crafting the backend and developing engaging frontends. I am currently on the lookout for job opportunities and am open to any proposals that come my way!
+
 <!--
 **Szymon017/szymon017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
