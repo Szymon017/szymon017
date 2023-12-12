@@ -19,7 +19,7 @@ I'm Szymon, a young programmer eager to gain experience in the IT industry. My c
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymon017)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymon017&hide_progress=true)
 <!--
 **Szymon017/szymon017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
