@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
+<p>
+I'm Szymon, a young programmer eager to gain experience in the IT industry. My current focus lies in full-stack applications, where I enjoy both crafting the backend and developing engaging frontends. I have completed my engineering studies in engineering and am currently pursuing a master's degree, further deepening my knowledge and skills. I am actively seeking job opportunities and am open to any proposals that come my way!
+</p>
 <h3 align="left">Skills:</h3>
 <div >
 	<code><img width="30" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
