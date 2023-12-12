@@ -1,7 +1,9 @@
 <p align="center">
  <b>Hi there, I'm Szymon</b> 👋
 </p>
+
 ---
+
 <p align="center">
 Computer Science Engineer, programming enthusiast
 </p>
