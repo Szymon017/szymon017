@@ -1,4 +1,6 @@
+<p align="center">
 ### Hi there, I'm Szymon 👋
+</p>
 ---
 <p align="center">
 Computer Science Engineer, programming enthusiast
